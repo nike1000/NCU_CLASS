@@ -1,0 +1,15 @@
+S->aAb
+A->B
+A->l
+B->c
+
+S:a
+A:c,l
+B:c
+a:a
+b:b
+c:c
+
+S:l
+A:b
+B:b
